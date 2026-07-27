@@ -1,0 +1,33 @@
+generated: '2026-07-19'
+method: searched
+source: probed /.well-known/ and root discovery paths on greyparrot.ai hosts
+host: https://www.greyparrot.ai
+# No genuine machine-readable well-known documents were served. The
+# analyzer.greyparrot.ai/.well-known/openid-configuration path returns HTTP 200
+# but the body is the Analyzer single-page-app HTML shell (React catch-all),
+# not a valid OIDC discovery JSON document, so it is recorded but NOT indexed as
+# a real WellKnown/OIDC artifact and no canonical pointer is emitted.
+documents:
+- path: /.well-known/security.txt
+  host: https://www.greyparrot.ai
+  status: 404
+- path: /.well-known/security.txt
+  host: https://greyparrot.ai
+  status: 404
+- path: /security.txt
+  host: https://www.greyparrot.ai
+  status: 404
+- path: /.well-known/ai-plugin.json
+  host: https://www.greyparrot.ai
+  status: 404
+- path: /.well-known/api-catalog
+  host: https://www.greyparrot.ai
+  status: 404
+- path: /.well-known/openid-configuration
+  host: https://analyzer.greyparrot.ai
+  status: 200
+  note: returns SPA HTML shell, not a valid OIDC document; not a real well-known artifact
+- path: /llms.txt
+  host: https://www.greyparrot.ai
+  status: 200
+  file: ../llms/greyparrot-llms.txt

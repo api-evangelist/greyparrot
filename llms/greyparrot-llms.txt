@@ -1,0 +1,29 @@
+# Greyparrot
+
+Greyparrot develop AI-powered automation in waste management, improving recycling rates
+
+## Top tier information
+Information about Greyparrot
+[How Greyparrot's technology works](https://www.greyparrot.ai/how-it-works): An explanation of how Greyparrot's AI powered tools identify waste by type, how this can improve recycling rates, and centralises the information gathered.
+[Contacting Greyparrot](https://www.greyparrot.ai/contact): How to get in touch with Greyparrot to learn what their solutions can do for you.
+[Solutions for Materials Recovery Facilities](https://www.greyparrot.ai/solutions/mrf): How Greyparrot can maximise profits by improving efficiency, even when dealing with huge quantities of waste.
+[About Greyparrot](https://www.greyparrot.ai/about-us): Details on who Greyparrot are and what they do (and why).
+[Careers at Greyparrot](https://www.greyparrot.ai/careers): What it's like working at Greyparrot, what vacancies are available, and how to apply.
+[Greyparrot Blog](https://www.greyparrot.ai/resources/blog): Industry insights and company news.
+
+## Products
+Products available from Greyparrot
+[Greyparrot Analyzer](https://www.greyparrot.ai/products/analyzer): Greyparrot's AI tool provides real-time alerts and in-depth data for the entire facility.
+[Greyparrot Sync](https://www.greyparrot.ai/products/sync): Connects Greyparrot's AI waste analytics to existing hardware and software.
+[Deepnest](https://www.greyparrot.ai/deepnest): Deepnest turns waste data into insights that help brands design more recyclable products.
+
+## News
+Top News Articles from Greyparrot
+[Waste Analytics ROI Case Studies](https://www.greyparrot.ai/resources/guides/waste-analytics-roi-case-studies): How much waste facilities save using Greyparrot's technology.
+[Why waste intelligence is an operational necessity in 2026](https://www.greyparrot.ai/resources/guides/ebook-ai-recycling-operations): Our annual report on how AI is being adopted by the waste industry worldwide.
+[The buyer's guide for waste management AI](https://www.greyparrot.ai/en-gb/resources/guides/ebook-ai-buyers-guide): Advice from experts at SUEZ UK, Re-Gen, KSI Recycling on how to select the right AI tools for waste management.
+[How AI is helping UK operators automate Environment Agency compliance reporting](https://www.greyparrot.ai/resources/blog/biffa-fcc-automated-compliance): How Greyparrot's technology is helping UK waste organisations fulfil the new legal requirements for reporting.
+[Running a profitable MRF in 2026](https://www.greyparrot.ai/webinar-running-a-profitable-mrf-in-2026): Watch our webinar on how AI can make waste facilities profitable today.
+
+
+Full index of pages here: https://www.greyparrot.ai/llms-full.txt
