@@ -51,7 +51,7 @@ image: https://www.greyparrot.ai/hubfs/gpr01/Featured%20images/Featured%20image%
 tags:
 - Company
 - Artificial Intelligence
-- Computer-Vision
+- Computer Vision
 - Waste Management
 - Recycling
 - Sustainability
@@ -70,6 +70,7 @@ tags_raw:
 - Analytics
 - Materials Recovery
 - Environmental
+- Computer-Vision
 apis: []
 maintainers:
 - FN: Kin Lane
